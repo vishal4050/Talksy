@@ -6,5 +6,6 @@
 <li>5. Navigate to server folder </li>
 <li>6. In cmd run <b>npm install</b></li>
 <li>7. Edit the File name<b> .example.env to .env </b>
-<li>8. Provide Mongodb URI and Cloudnary secrets to setup .env</li> - [Cloudinary](https://cloudinary.com/) 
+<li>8. Provide Mongodb URI (https://www.mongodb.com/cloud/atlas/register)
+  and Cloudnary secrets (https://cloudinary.com/) to setup .env</li> 
 <li>9. To start server run <b>npm start</b></li>
