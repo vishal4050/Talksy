@@ -9,7 +9,7 @@
 <li>8. Provide Mongodb URI (https://www.mongodb.com/cloud/atlas/register)
   and Cloudnary secrets (https://cloudinary.com/) to setup .env</li> 
 <li>9. To start server run <b>npm start</b></li>
-<h1>Project Demo</h1>
+<h1>Project Preview</h1>
 
 https://github.com/user-attachments/assets/6eab4fd0-933f-4457-9aa7-a6586c6c099a
 
