@@ -1,5 +1,5 @@
 <h1> Steps to SetUp the Project</h1>
-<li>1. fork github repo.</li>
+<li>1. clone github repo.</li>
 <li>2. Navigate to client folder</li>
 <li>3. In cmd run <b>npm install</b></li>
 <li>4. to start the front-end run <b>npm start</b></li>
